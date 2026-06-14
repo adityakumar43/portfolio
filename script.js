@@ -1,11 +1,11 @@
 var typed = new Typed("#typing", {
-    strings: [
-        "Frontend Developer",
-        "React Developer",
-        "AWS Learner",
-        "BTech Student"
-    ],
-    typeSpeed: 80,
-    backSpeed: 50,
-    loop: true
+  strings: [
+    "AWS Learner",
+    "Frontend Developer",
+    "React Developer",
+    "BTech Student"
+  ],
+  typeSpeed: 70,
+  backSpeed: 50,
+  loop: true
 });
