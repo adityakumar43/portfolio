@@ -1,8 +1,8 @@
 var typed = new Typed("#typing", {
   strings: [
-    "AWS Learner",
     "Full Stack Developer",
     "React Developer",
+    "AWS Learner",
     
   ],
   typeSpeed: 70,
